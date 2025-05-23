@@ -1,0 +1,30 @@
+# Android SDK
+/android_sdk/
+
+# Android build outputs
+/app/build/
+/app/.idea/
+/app/.gradle/
+/app/local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac files
+.DS_Store
+
+# Captures and logs
+/captures/
+*.log
